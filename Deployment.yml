@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: productscontainer
-      image: ecomm/products
+      image: aditya0211/ecomm-products
       ports:
       - containerPort: 8080
 ---
